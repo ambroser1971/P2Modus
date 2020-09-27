@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnwnG5OBJjkjBwowrYFKOkJmA9YA9l9dOBYRKKczw/BspnrfTG6H7A9Xzk+7ccVgXi2Vl9Sn92DzN9PCqg380g==",
+  "success": true,
+  "projectFilePath": "/home/rich/dev/P2Modus/P2Modus.Core/P2Modus.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/rich/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/rich/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

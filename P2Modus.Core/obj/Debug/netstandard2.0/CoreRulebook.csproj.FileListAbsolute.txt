@@ -1,0 +1,9 @@
+/home/rich/dev/OpenGameLicense/CoreRulebook/obj/Debug/netstandard2.0/CoreRulebook.csprojAssemblyReference.cache
+/home/rich/dev/OpenGameLicense/CoreRulebook/obj/Debug/netstandard2.0/CoreRulebook.AssemblyInfoInputs.cache
+/home/rich/dev/OpenGameLicense/CoreRulebook/obj/Debug/netstandard2.0/CoreRulebook.AssemblyInfo.cs
+/home/rich/dev/OpenGameLicense/CoreRulebook/obj/Debug/netstandard2.0/CoreRulebook.csproj.CoreCompileInputs.cache
+/home/rich/dev/OpenGameLicense/CoreRulebook/bin/Debug/netstandard2.0/CoreRulebook.deps.json
+/home/rich/dev/OpenGameLicense/CoreRulebook/bin/Debug/netstandard2.0/CoreRulebook.dll
+/home/rich/dev/OpenGameLicense/CoreRulebook/bin/Debug/netstandard2.0/CoreRulebook.pdb
+/home/rich/dev/OpenGameLicense/CoreRulebook/obj/Debug/netstandard2.0/CoreRulebook.dll
+/home/rich/dev/OpenGameLicense/CoreRulebook/obj/Debug/netstandard2.0/CoreRulebook.pdb
